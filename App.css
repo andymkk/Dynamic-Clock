@@ -1,0 +1,17 @@
+.app {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background-color: #000;
+}
+
+.clock {
+  font-size: 2em;
+  font-family: monospace;
+  color: #ffd700;
+  padding: 20px;
+  background-color: #222;
+  border-radius: 10px;
+  border: 2px solid #ffd700;
+}
